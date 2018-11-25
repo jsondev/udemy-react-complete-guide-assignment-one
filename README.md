@@ -1,8 +1,8 @@
-#React the Complete Guide Including Redux
-##Assignment One 
+# React the Complete Guide Including Redux
+## Assignment One 
 Follow the instructions explained in the problem video and try to implement a solution on your own. Compare it with my solution (video + downloadable files) thereafter.
 
-##The instructions are:
+## The instructions are:
 
 Create TWO new components: UserInput and UserOutput
 UserInput should hold an input element, UserOutput two paragraphs
@@ -16,5 +16,5 @@ Add two-way-binding to your input (in UserInput) to also display the starting us
 Add styling of your choice to your components/ elements in the components - both with inline styles and stylesheets
 
 
-##Questions for this Assignment
+## Questions for this Assignment
 What did you find most challenging and how did you overcome the challenge?
